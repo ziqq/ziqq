@@ -43,11 +43,11 @@
 
 <br />
 
-[![Anton's github stats](https://github-readme-stats.vercel.app/api?username=ziqq&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github.com/ziqq/ziqq/blob/main/images/stat.svg" alt="Anton WakaTime Activity" align=center/>
 
 <br />
 
-<img src="https://github.com/ziqq/ziqq/blob/main/images/stat.svg" alt="Anton WakaTime Activity" align=center/>
+[![Anton's github stats](https://github-readme-stats.vercel.app/api?username=ziqq&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <br/>
 
