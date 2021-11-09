@@ -1,15 +1,14 @@
 ### Hello there 👋 Welcome to my GitHub! I'm Anton Ustinoff, frontend developer.
 
 <br/>
-<br/>
 
 ### Connect with me :smiley:
 (Use dark theme to find my socials ;)
 
 <a href="https://vk.com/antonustinoff">
-  <img align="left" alt="Anton Ustinoff VK" width="22px"  target="_blank" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/vk.svg" />
+  <img align="left" alt="Anton Ustinoff VK" width="22px"  target="_blank" src="https://github.com/ziqq/ziqq/blob/main/assets/vk.svg" />
 </a>
-<a href="https://instagram.com/_.aakarsh._" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://instagram.com/eyeofantonustinoff" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/ziqq/ziqq/blob/main/assets/insta.svg" />
 
 <br/>
 <br/>
@@ -19,7 +18,7 @@
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/ziqq/ziqq/blob/main/assets/github.svg" />
 
 <br />
 <br />
