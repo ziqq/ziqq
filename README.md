@@ -31,7 +31,8 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/></a>
 
 <br />
-<br/>
+<br />
+  
 ---
 
 ### Music for development 🎧
