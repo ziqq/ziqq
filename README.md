@@ -31,13 +31,12 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/></a>
 
 <br />
-<br />
+<br/>
+---
 
 ### Music for development 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/vd1u2mc30dd5ao76llca1b437)
-<br/>
----
 
 <!-- <br/>
 
