@@ -5,10 +5,8 @@
 ### Connect with me :smiley:
 (Use dark theme to find my socials ;)
 
-<a href="https://vk.com/antonustinoff">
-  <img align="left" alt="Anton Ustinoff VK" width="22px"  target="_blank" src="https://github.com/ziqq/ziqq/blob/main/assets/vk.svg" />
-</a>
-<a href="https://instagram.com/eyeofantonustinoff" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/ziqq/ziqq/blob/main/assets/insta.svg" />
+<a href="https://vk.com/antonustinoff" target="_blank"><img align="left" alt="Anton U | VK" width="22px" src="https://github.com/ziqq/ziqq/blob/main/assets/vk.svg" /></a>
+<a href="https://instagram.com/eyeofantonustinoff" target="_blank"><img align="left" alt="Anton U | Instagram" width="22px" src="https://github.com/ziqq/ziqq/blob/main/assets/insta.svg" />
 
 <br/>
 <br/>
