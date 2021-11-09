@@ -1,8 +1,8 @@
 ### Hello there 👋 Welcome to my GitHub! I'm Anton Ustinoff, frontend developer.
 
-<!-- <br />
+<br />
 
-<img src="https://github.com/ziqq/ziqq/blob/main/images/stat.svg" alt="Anton WakaTime Activity" align=center/> -->
+<!-- <img src="https://github.com/ziqq/ziqq/blob/main/images/stat.svg" alt="Anton WakaTime Activity" align=center/> -->
 
 
 ### Connect with me :smiley:
