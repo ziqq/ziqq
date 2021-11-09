@@ -4,7 +4,6 @@
 
 <img src="https://github.com/ziqq/ziqq/blob/main/images/stat.svg" alt="Anton WakaTime Activity" align=center/>
 
-<br/>
 
 ### Connect with me :smiley:
 (Use dark theme to find my socials ;)
