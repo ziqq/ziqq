@@ -16,16 +16,16 @@
 
 ### Languages and Tools:
 
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="./images/html.svg" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="./images/css.svg" /></a>
-<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="CSS3" width="26px" src="./images/javascript.svg" /></a>
-<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="CSS3" width="26px" src="./images/typescript.svg" /></a>
-  <a href="https://vuejs.org/" target="_blank"><img align="left" alt="vue" width="26px" src="./images/vue.svg" /></a>
-  <a href="https://flutter.dev/" target="_blank"><img align="left" alt="flutter" width="26px" src="./images/flutter.png" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" width="26px" src="./images/mongodb.svg" /></a>
-<a href="https://firebase.google.com/" target="_blank"><img align="left" alt="Firebase" width="26px" src="./images/firebase.png" /></a>
-<a href="https://git-scm.com/" target="_blank"><img align="left" alt="git" width="26px" src="./images/git.svg" /></a>
-<img align="left" alt="GitHub" width="26px" src="./images/github.svg" />
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" border="0" alt="HTML5" width="26px" src="./images/html.svg" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" border="0" alt="CSS3" width="26px" src="./images/css.svg" /></a>
+<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" border="0" alt="CSS3" width="26px" src="./images/javascript.svg" /></a>
+<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" border="0" alt="CSS3" width="26px" src="./images/typescript.svg" /></a>
+  <a href="https://vuejs.org/" target="_blank"><img align="left" border="0" alt="vue" width="26px" src="./images/vue.svg" /></a>
+  <a href="https://flutter.dev/" target="_blank"><img align="left" border="0" alt="flutter" width="26px" src="./images/flutter.png" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img align="left" border="0" alt="MongoDB" width="26px" src="./images/mongodb.svg" /></a>
+<a href="https://firebase.google.com/" target="_blank"><img align="left" border="0" alt="Firebase" width="26px" src="./images/firebase.png" /></a>
+<a href="https://git-scm.com/" target="_blank"><img align="left" border="0" alt="git" width="26px" src="./images/git.svg" /></a>
+<img align="left" border="0" alt="GitHub" width="26px" src="./images/github.svg" />
 
 <br />
 <br />
@@ -33,10 +33,10 @@
 ### Softwares:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="./images/vscode.svg" />
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="./images/xd.svg"/></a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="35px" src="./images/photoshop.svg"/></a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="35px" src="./images/illustrator.svg"/></a> 
-<a href="https://figma.com/" target="_blank"> <img align="left" alt="figma" width="26px" src="./images/figma.svg"/></a> 
+<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" border="0" alt="XD" width="26px" src="./images/xd.svg"/></a> 
+<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" border="0" alt="Photoshop" width="40px" src="./images/photoshop.svg"/></a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" border="0" alt="Illustrator" width="40px" src="./images/illustrator.svg"/></a> 
+<a href="https://figma.com/" target="_blank"> <img align="left" border="0" alt="figma" width="24px" src="./images/figma.svg"/></a> 
 
 <br />
 <br />
