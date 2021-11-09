@@ -1,5 +1,6 @@
 ### Hello there <img src="./images/wave.gif" width="35px"> Welcome to my GitHub! I'm Anton Ustinoff, frontend developer.
 
+<br/>
 <!-- <img src="https://github.com/ziqq/ziqq/blob/main/images/stat.svg" alt="Anton WakaTime Activity" align=center/> -->
 
 
