@@ -1,12 +1,13 @@
 ### Hello there 👋 Welcome to my GitHub! I'm Anton Ustinoff, frontend & flutter developer.
 
 ### Connect with me :smiley:
+(Use dark theme to find my socials ;)
 
 <a href="https://vk.com/antonustinoff">
   <img align="left" alt="Anton Ustinoff VK" width="22px"  target="_blank" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/vk.svg" />
 </a>
-
 <br/>
+
 ### Languages and Tools:
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
@@ -16,6 +17,7 @@
 <br />
 
 <br />
+
 ### Softwares:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
