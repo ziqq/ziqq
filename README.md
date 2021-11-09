@@ -1,5 +1,9 @@
 ### Hello there 👋 Welcome to my GitHub! I'm Anton Ustinoff, frontend developer.
 
+<br />
+
+<img src="https://github.com/ziqq/ziqq/blob/main/images/stat.svg" alt="Anton WakaTime Activity" align=center/>
+
 <br/>
 
 ### Connect with me :smiley:
@@ -31,6 +35,8 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/></a>
 
 <br />
+<br />
+  
 ---
 
 ### Music for development 🎧
@@ -38,10 +44,6 @@
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/vd1u2mc30dd5ao76llca1b437)
 <br/>
 ---
-
-<br />
-
-<img src="https://github.com/ziqq/ziqq/blob/main/images/stat.svg" alt="Anton WakaTime Activity" align=center/>
 
 <br />
 
