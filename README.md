@@ -2,14 +2,14 @@
 
 <br />
 
-<img src="https://github.com/ziqq/ziqq/blob/main/images/stat.svg" alt="Anton WakaTime Activity" align=center/>
+<!-- <img src="https://github.com/ziqq/ziqq/blob/main/images/stat.svg" alt="Anton WakaTime Activity" align=center/> -->
 
 
 ### Connect with me :smiley:
 (Use dark theme to find my socials ;)
 
 <a href="https://vk.com/antonustinoff" target="_blank"><img align="left" alt="Anton U | VK" width="22px" src="https://github.com/ziqq/ziqq/blob/main/images/vk.svg" /></a>
-<a href="https://instagram.com/eyeofantonustinoff" target="_blank"><img align="left" alt="Anton U | Instagram" width="22px" src="https://github.com/ziqq/ziqq/blob/main/images/insta.svg" />
+<a href="https://www.instagram.com/eyeofantonustinoff/" target="_blank"><img align="left" alt="Anton U | Instagram" width="22px" src="https://github.com/ziqq/ziqq/blob/main/images/insta.svg" />
 
 <br/>
 <br/>
