@@ -1,0 +1,22 @@
+
+name: Build Graph
+# Visit https://github.com/ziqq/profile_readme_waka_time for more description about this GitHub Action.
+
+on:
+  schedule:
+    # Runs at 12 am  '0 0 * * *'  UTC
+    - cron: '1 0 * * *'
+
+jobs:
+  update-readme:
+    name: Update the WakaTime Stat
+    runs-on: ubuntu-latest
+    steps:
+      # Use ziqq/profile_readme_waka_time@<latest-release-tag> for latest stable release
+      # Do not change the line below except the word master with tag number maybe
+      - uses: ziqq/profile_readme_waka_time@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GITHUB_TOKEN: ${{ github.token }}
+          BRANCH: "main"
+          COMMIT_MSG: "new stats received :dog:"
