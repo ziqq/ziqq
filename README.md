@@ -34,9 +34,9 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="./images/vscode.svg" />
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" border="0" alt="XD" width="26px" src="./images/xd.svg"/></a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" border="0" alt="Photoshop" width="40px" src="./images/photoshop.svg"/></a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" border="0" alt="Illustrator" width="40px" src="./images/illustrator.svg"/></a> 
-<a href="https://figma.com/" target="_blank"> <img align="left" border="0" alt="figma" width="24px" src="./images/figma.svg"/></a> 
+<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" border="0" alt="Photoshop" width="26px" src="./images/photoshop.svg"/></a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" border="0" alt="Illustrator" width="26px" src="./images/illustrator.svg"/></a> 
+<a href="https://figma.com/" target="_blank"> <img align="left" border="0" alt="figma" width="26px" src="./images/figma.svg"/></a> 
 
 <br />
 <br />
