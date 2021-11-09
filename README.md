@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋 Welcome to my GitHub! I'm Anton Ustinoff, frontend & flutter developer
 
 ### Connect with me :smiley:
 <a href="https://www.quora.com/profile/Vedant-Jajoo-1">
@@ -6,9 +6,11 @@
 </a>
 <br/><br/>
 <p align="center">
-<!--<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" /> -->
+  <img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" />
 </p>
 <br/><br/>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ziqq.ziqq&left_color=green&right_color=red)
 
 <!--
 **ziqq/ziqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
