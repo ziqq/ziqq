@@ -1,6 +1,9 @@
 ### Hello there 👋 Welcome to my GitHub! I'm Anton Ustinoff, frontend developer.
 
-<br/>
+<br />
+
+<img src="https://github.com/ziqq/ziqq/blob/main/images/stat.svg" alt="Anton WakaTime Activity" align=center/>
+
 
 ### Connect with me :smiley:
 (Use dark theme to find my socials ;)
@@ -32,7 +35,7 @@
 
 <br />
 <br />
-
+  
 ---
 
 ### Music for development 🎧
@@ -44,10 +47,6 @@
 <br />
 
 [![Anton's github stats](https://github-readme-stats.vercel.app/api?username=ziqq&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
-
-<img src="https://github.com/ziqq/ziqq/blob/main/images/stat.svg" alt="Anton WakaTime Activity" align=center/>
 
 <!-- <br/>
 
