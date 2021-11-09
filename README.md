@@ -22,10 +22,10 @@
 <a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="CSS3" width="26px" src="./images/typescript.svg" /></a>
   <a href="https://vuejs.org/" target="_blank"><img align="left" alt="vue" width="26px" src="./images/vue.svg" /></a>
   <a href="https://flutter.dev/" target="_blank"><img align="left" alt="flutter" width="26px" src="./images/flutter.png" /></a>
-<a href="https://git-scm.com/" target="_blank"><img align="left" alt="git" width="26px" src="./images/git.svg" /></a>
-<img align="left" alt="GitHub" width="26px" src="./images/github.svg" />
 <a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" width="26px" src="./images/mongodb.svg" /></a>
 <a href="https://firebase.google.com/" target="_blank"><img align="left" alt="Firebase" width="26px" src="./images/firebase.png" /></a>
+<a href="https://git-scm.com/" target="_blank"><img align="left" alt="git" width="26px" src="./images/git.svg" /></a>
+<img align="left" alt="GitHub" width="26px" src="./images/github.svg" />
 
 <br />
 <br />
