@@ -1,4 +1,4 @@
-### Hello there <img src="./images/wave.gif" width="35px"> Welcome to my GitHub! (https://visitor-badge.glitch.me/badge?page_id=ziqq.ziqq) I'm Anton Ustinoff, frontend developer.
+### Hello there <img src="./images/wave.gif" width="35px"> Welcome to my GitHub! I'm Anton Ustinoff, frontend developer.
 
 <br/>
 <!-- <img src="https://github.com/ziqq/ziqq/blob/main/images/stat.svg" alt="Anton WakaTime Activity" align=center/> -->
@@ -54,6 +54,6 @@
   
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ziqq/ziqq/output/github-contribution-grid-snake.svg)
 
-<br/>
+<!-- <br/>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ziqq.ziqq)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ziqq.ziqq) -->
