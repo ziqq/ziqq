@@ -54,6 +54,6 @@
   
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ziqq/ziqq/output/github-contribution-grid-snake.svg)
 
-<!-- <br/>
+<br/>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ziqq.ziqq) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ziqq.ziqq)
