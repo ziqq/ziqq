@@ -2,6 +2,7 @@
 <!-- ### Hi there 👋 <img src="./images/wave.gif" width="28px" height="28px">
 #### Welcome to my GitHub!
 #### My name is Anton Ustinoff. I am the frontend developer. -->
+<br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=500&width=500&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+GitHub!;My+name+is+Anton+Ustinoff.;I'am+mobile+app+developer.;I%E2%80%99m+currently+learning+Flutter+%26+SwiftUI.;I%E2%80%99m+currently+working+on+beauty+box.;I+really+love+coding." alt="Typing SVG" /></a>
 <!-- <img src="https://github.com/ziqq/ziqq/blob/main/images/stat.svg" alt="Anton WakaTime Activity" align=center/> -->
 
