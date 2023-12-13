@@ -1,6 +1,7 @@
 name: generate stats
 
 on:
+  workflow_dispatch:
   push:
     branches: [ master, main, development ]
   schedule:
