@@ -1,23 +1,11 @@
-<!-- ### Hello there <img src="./images/wave.gif" width="35px"> Welcome to my GitHub! I'm Anton Ustinoff, frontend developer. -->
-<!-- ### Hi there 👋 <img src="./images/wave.gif" width="28px" height="28px">  -->
-
-<!-- #### Welcome to my GitHub!
-#### My name is Anton Ustinoff. I am the frontend developer. -->
-
-<!-- <br/> -->
-
-<!--  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=500&width=500&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+GitHub!;My+name+is+Anton+Ustinoff.;I'am+mobile+app+developer.;I%E2%80%99m+currently+learning+Flutter+%26+SwiftUI.;I%E2%80%99m+currently+working+on+beauty+box.;I+really+love+coding." alt="Typing SVG" /></a>  -->
-
-<!-- <img src="https://github.com/ziqq/ziqq/blob/main/images/stat.svg" alt="Anton WakaTime Activity" align=center/> -->
-
 ### Middle Flutter Developer
-<a href="https://vk.com/antonustinoff">
+<a href="https://vk.com/antonustinoff" target="_blank">
   <img align="left" alt="Tony's VK" src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" />
 </a>
-<a href="https://t.me/smokeeyes">
+<a href="https://t.me/smokeeyes" target="_blank" >
   <img align="left" alt="Tony's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<a href="https://discord.com/users/647433923466625045">
+<a href="https://discord.com/users/647433923466625045" target="_blank" >
   <img align="left" alt="Tony's Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
