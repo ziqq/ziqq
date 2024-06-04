@@ -1,5 +1,5 @@
 ### Middle Flutter Developer
-<--! <a href="https://vk.com/antonustinoff" target="_blank">
+<!-- <a href="https://vk.com/antonustinoff" target="_blank">
   <img align="left" alt="Tony's VK" src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" />
 </a>
 <a href="https://t.me/smokeeyes" target="_blank" >
@@ -9,7 +9,7 @@
   <img align="left" alt="Tony's Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a> -->
 
-<--! <br/> -->
+<!-- <br/> -->
 <br/>
 
 <samp>
@@ -20,7 +20,7 @@ Hi, my name is Anton (Tony). Welcome to my GitHub!
 I'm a mobile app developer. Currently learning Flutter and SwiftUI.
 </samp>
 
-<br/>
+<!-- <br/>
 <br/>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,4 +40,4 @@ I'm a mobile app developer. Currently learning Flutter and SwiftUI.
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ziqq/ziqq/output/github-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/ziqq/ziqq/output/github-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/ziqq/ziqq/output/github-snake.svg#gh-light-mode-only) -->
