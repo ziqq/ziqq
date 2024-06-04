@@ -37,7 +37,7 @@ I'm a mobile app developer. Currently learning Flutter and SwiftUI.
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) -->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ziqq/ziqq/output/github-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/ziqq/ziqq/output/github-snake.svg#gh-light-mode-only) -->
+![github contribution grid snake animation](https://raw.githubusercontent.com/ziqq/ziqq/output/github-snake.svg#gh-light-mode-only)
