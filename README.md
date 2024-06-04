@@ -7,10 +7,10 @@
 </a>
 <a href="https://discord.com/users/647433923466625045" target="_blank" >
   <img align="left" alt="Tony's Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a> -->
+</a>
 
-<!-- <br/> -->
 <br/>
+<br/>  -->
 
 <samp>
 Hi, my name is Anton (Tony). Welcome to my GitHub!
