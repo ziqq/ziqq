@@ -1,5 +1,5 @@
 ### Middle Flutter Developer
-<a href="https://vk.com/antonustinoff" target="_blank">
+<--! <a href="https://vk.com/antonustinoff" target="_blank">
   <img align="left" alt="Tony's VK" src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" />
 </a>
 <a href="https://t.me/smokeeyes" target="_blank" >
@@ -7,9 +7,9 @@
 </a>
 <a href="https://discord.com/users/647433923466625045" target="_blank" >
   <img align="left" alt="Tony's Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
+</a> -->
 
-<br/>
+<--! <br/> -->
 <br/>
 
 <samp>
