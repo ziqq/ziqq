@@ -16,8 +16,11 @@
 Hi, my name is Anton (Tony). Welcome to my GitHub!
 </samp>
 <br/>
+<br/>
 <samp>
-I'm a mobile app developer. Currently learning Flutter and SwiftUI.
+I'm a mobile and web developer working with Flutter and SwiftUI.<br/>
+Lately, I've been learning Go and Rust while exploring other languages.<br/>
+I actively use AI in my development workflow and integrate it into my projects.<br/>
 </samp>
 
 <!-- <br/>
@@ -41,3 +44,28 @@ I'm a mobile app developer. Currently learning Flutter and SwiftUI.
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ziqq/ziqq/output/github-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ziqq/ziqq/output/github-snake.svg#gh-light-mode-only)
+
+---
+
+<samp>Open Source Projects</samp>
+<br/>
+
+[![vscode_codepen_theme](https://github-readme-stats.vercel.app/api/pin/?username=ziqq&theme=dark&repo=vscode_codepen_theme)](https://github.com/ziqq/vscode_codepen_theme)<br/>
+[![terminal_codepen_theme](https://github-readme-stats.vercel.app/api/pin/?username=ziqq&theme=dark&repo=terminal_codepen_theme)](https://github.com/ziqq/terminal_codepen_theme)<br/>
+[![actions](https://github-readme-stats.vercel.app/api/pin/?username=ziqq&theme=dark&repo=actions)](https://github.com/ziqq/actions)<br/>
+[![Codetree](https://github-readme-stats.vercel.app/api/pin/?username=ziqq&theme=dark&repo=Codetree)](https://github.com/ziqq/Codetree)<br/>
+[![Copybara](https://github-readme-stats.vercel.app/api/pin/?username=ziqq&theme=dark&repo=Copybara)](https://github.com/ziqq/Copybara)<br/>
+[![Glimpshot](https://github-readme-stats.vercel.app/api/pin/?username=ziqq&theme=dark&repo=Glimpshot)](https://github.com/ziqq/Glimpshot)<br/>
+[![Notchlimits](https://github-readme-stats.vercel.app/api/pin/?username=ziqq&theme=dark&repo=Notchlimits)](https://github.com/ziqq/Notchlimits)<br/>
+[![xcode-themes](https://github-readme-stats.vercel.app/api/pin/?username=ziqq&theme=dark&repo=xcode-themes)](https://github.com/ziqq/xcode-themes)<br/>
+[![contactos](https://github-readme-stats.vercel.app/api/pin/?username=ziqq&theme=dark&repo=contactos)](https://github.com/ziqq/contactos)<br/>
+[![flutter_badge_manager](https://github-readme-stats.vercel.app/api/pin/?username=ziqq&theme=dark&repo=flutter_badge_manager)](https://github.com/ziqq/flutter_badge_manager)<br/>
+[![flutter_simple_country_picker](https://github-readme-stats.vercel.app/api/pin/?username=ziqq&theme=dark&repo=flutter_simple_country_picker)](https://github.com/ziqq/flutter_simple_country_picker)<br/>
+[![flutter_in_store_app_version_checker](https://github-readme-stats.vercel.app/api/pin/?username=ziqq&theme=dark&repo=flutter_in_store_app_version_checker)](https://github.com/ziqq/flutter_in_store_app_version_checker)
+
+---
+ 
+<samp>Scores & Stats</samp>
+<br/>
+  
+[![Ziqq Github Stats](https://github-readme-stats.vercel.app/api?username=ziqq&count_private=true&theme=dark&show_icons=true)](https://github.com/ziqq)
